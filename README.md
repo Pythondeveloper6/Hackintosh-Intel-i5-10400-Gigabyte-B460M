@@ -8,6 +8,9 @@ Success build of Opencore Hakintosh with Intel 10th gen Comet Lake, Gigabyte Mot
   
   
   
+### Steps I Followed 
+- i followed the [OpenCor Documentation](https://dortania.github.io/OpenCore-Install-Guide/)
+  
 ### Bios Settings
   - Disable:
     - Fast Boot
