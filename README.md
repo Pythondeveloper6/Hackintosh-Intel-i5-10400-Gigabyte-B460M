@@ -1,13 +1,14 @@
 # Hackintosh-Intel-i5-10400-Gigabyte-B460M
 Success build of Opencore Hakintosh with Intel 10th gen Comet Lake, Gigabyte Motherboard and AMD RX 5500T
 
-Pc : 
+### Pc : 
   - Intel Core I5 10400 10TH Generation
   - GIGABYTE B460M 
   - AMD RX 5500T
   
   
-Bios Settings
+  
+### Bios Settings
   - Disable:
     - Fast Boot
     - VT-d 
